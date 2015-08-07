@@ -58,4 +58,9 @@ public class MySQLLoginDAO {
 	public void deleteUser(UserDTO user) throws DALException{
 		Connector.doUpdate("");
 	}
+	public UserDTO loginCheck() throws DALException{
+		UserDTO user = null;
+		
+		return user;
+	}
 }
