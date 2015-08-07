@@ -1,3 +1,4 @@
+package server;
 // erstat konstanterne nedenfor
 
 public abstract class Constant

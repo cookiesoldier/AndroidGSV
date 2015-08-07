@@ -1,3 +1,4 @@
+package shared;
 /**
  * Data Access Layer Exception is thrown when errors occur in the data layer
  * Exception is serializable and hence DALException is also serializable

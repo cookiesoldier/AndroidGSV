@@ -1,7 +1,11 @@
+package server;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
 import java.util.ArrayList;
+
+import shared.DALException;
+import shared.UserDTO;
 
 public class MySQLLoginDAO {
 
